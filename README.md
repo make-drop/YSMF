@@ -21,5 +21,9 @@ The matrix can be constructed by passing only the default value without the numb
 
 The constructor of a matrix on type T from a matrix on type Q was also written, and convertibility checking was delegated to the compiler.
 
+# Usage
+
+For the compilation there is the Makefile. SparseMatrix.h provides the complete code implementation. The main.cpp provides tests with different usage examples.
+
 # Please contact me
 Please contact me if you have any concerns or can help me improve the documentation. Thanks!
