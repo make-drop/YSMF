@@ -26,7 +26,7 @@ Note: the function pointed to by C must return **TRUE** if two objects of type T
 
 `SparseMatrix<T, C> matrix_name(D);`
 
-Construct a matrix with objects of type T from a matrix of objects of type Q:
+Construct a matrix of objects of type T from a matrix of objects of type Q:
 
 `SparseMatrix<T, C> matrix_name_T(matrix_name_Q);`
 
